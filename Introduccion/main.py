@@ -26,6 +26,9 @@ type(name) # para saber que tipo de dato es la variable
 #En python no existen las constantes como en otros lenguajes, pero se puede usar convencion de poner el nombre de la variable en mayusculas para indicar que no debe cambiar su valor
 # PI = 3.1416
 #en las operaciones por defecto el / siempre dará un float aunque los numeros sean enteros si quiero que de un numero entero se debe usar el //
+
+
+"""
 number = 10
 result = number / 10 #float
 print("El resultado es:", result)
@@ -33,3 +36,15 @@ print("El resultado es:", result)
 number2 = 10
 result2 = number2 // 10 #integer
 print("El resultado es:", result2)
+"""
+"""
+Operadores logicos 
+==, >, >=, <, <=, != resultados boleanos
+and, or, not cambiar true a false o viceversa
+
+"""
+
+
+#Pedir valores al usuario
+#full_name = input("Ingresa tu nombre: ") #str
+#print("Hola:",full_name)
