@@ -14,3 +14,7 @@ print(copy_list)
 
 reverse_list = courses.reverse()  #Invierte el orden de los elementos de la lista este metodo cambia la lista original
 print(courses)
+
+courses.sort()  #Ordena los elementos de la lista en orden alfabetico este metodo cambia la lista original
+print(courses)
+courses.sort(reverse=True)  #Ordena los elementos de la lista en orden alfabetico inverso este metodo cambia la lista original
