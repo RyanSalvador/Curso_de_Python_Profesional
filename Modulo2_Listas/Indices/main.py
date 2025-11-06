@@ -1,3 +1,5 @@
+#               0        1        2        3        4
+#             -5        -4        -3       -2        -1
 courses = ["Python", "Django", "Flask", "Ruby", "MongoDB"] #strings
 
 
