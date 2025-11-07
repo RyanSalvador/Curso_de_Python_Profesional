@@ -1,0 +1,3 @@
+# True / False
+# "", '', 0, 0.0 False, [], (), {}, None         TODOS ESTOS SON CONSIDERADOS FALSOS
+# " ", 'a', 1, -1, 1.0 -1, [1], (1), {'a':1}      TODOS ESTOS SON CONSIDERADOS FALSOS EN SI TODA EXISTENCIA DE VALORES Y LO CONTRARIO A LA LISTA DE ARRIBA
